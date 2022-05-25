@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MaxAFath
-- 👀 I’m interested in programming and software development 
-- 🌱 I’m currently learning programing and software development
 - 📫 How to reach me is via twitter @allenfathauer
 
 <!---
